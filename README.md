@@ -1,4 +1,4 @@
-\# Bootcamp Machine Learning
+# Bootcamp Machine Learning
 
 
 
@@ -6,17 +6,17 @@ Este repositório reúne todos os desafios e projetos práticos desenvolvidos ao
 
 
 
-\## Estrutura do Repositório
+## Estrutura do Repositório
 
 
 
-\- `01-conversao-imagem-cinza-pretoEbranco`: Conversão de imagens coloridas para tons de cinza e preto e branco usando Python puro.
+- `01-conversao-imagem-cinza-pretoEbranco`: Conversão de imagens coloridas para tons de cinza e preto e branco usando Python puro.
 
-\- `...`: Novos projetos serão adicionados aqui conforme forem sendo realizados.
+- `...`: Novos projetos serão adicionados aqui conforme forem sendo realizados.
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
@@ -24,15 +24,15 @@ Documentar minha jornada de aprendizado em Machine Learning por meio de projetos
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Python
+- Python
 
-\- Google Colab
+- Google Colab
 
-\- (Sem bibliotecas externas em alguns desafios, conforme exigido)
+- (Sem bibliotecas externas em alguns desafios, conforme exigido)
 
 
 
@@ -42,7 +42,7 @@ Documentar minha jornada de aprendizado em Machine Learning por meio de projetos
 
 
 
-\*Este repositório está em constante atualização.\*
+*Este repositório está em constante atualização.\*
 
 
 
